@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**ElChicoDelFondo/ElChicoDelFondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <br>
+  <a href=" "><img src="" alt="Diego" width="200"></a>
+  <br>
+  My Portfolio
+  <br>
+</h1>
 
-Here are some ideas to get you started:
+## Certificates
+If you want to see my [certificates]() they are all here:) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Network proyect
+ I'm working on it
+
+
+## Pytyon proyects
+Python is verry importan in the cybersecurity and  having thius skill can be useful when automating processes
+  <br>[Port scanner]()</br>
+  [Password manager]()
+
+## SPLUNK (SIEM) Labs
+
+## SQL
+
+
